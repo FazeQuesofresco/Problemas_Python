@@ -1,0 +1,8 @@
+#ejercicio 3:
+
+peso = input("Dime tu peso:")
+peso = float(peso)
+
+peso = peso *1000
+
+print("El peso es", peso,"gramos")
